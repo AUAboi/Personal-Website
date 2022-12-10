@@ -4,6 +4,8 @@ const submenus = document.querySelectorAll(".submenu-trigger")
 
 
 
+
+
 function onHamburgerClick() {
     if (!navbar.classList.contains('open')) {
         navbar.classList.add("open")
@@ -19,3 +21,6 @@ submenus.forEach(sub => {
         sub.classList.toggle("open")
     })
 });
+
+
+
