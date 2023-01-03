@@ -13,7 +13,7 @@ body {
 
 .navbar a.home {
   background: white;
-  margin-bottom: 0px;
+  margin-bottom: 50px;
 }
 
 .navbar {
@@ -48,7 +48,6 @@ body {
   color: inherit;
   text-decoration: none;
   display: inline-block;
-
 }
 
 .navbar a:hover,
@@ -112,7 +111,6 @@ ul.submenu span {
 
 ul.submenu li {
   margin: 0.4rem 0;
-  
 }
 
 ul.submenu li a {
